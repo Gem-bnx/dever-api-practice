@@ -1,0 +1,32 @@
+body{
+  background-color: #310A4D;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10vh auto;
+  width: 60%;
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+}
+.btn{
+  display: block;
+  margin: 0 auto;
+  width: 30%;
+}
+.btn button{
+  padding: 20px;
+  box-shadow: 0 0 15px #f8efff;
+  background-color: #DFD6F6;
+  border: none;
+  border-radius: 10px;
+  font-weight: bolder;
+  letter-spacing: 5px;
+  width: 100%;
+}
+.hero-img{
+  display: block;
+  margin: 20vh auto;
+  width: 40%;
+}
